@@ -1,4 +1,4 @@
-# lambda
+# lAMBDA
 <h3>
   Global Campus Union Club Offical Website
 </h3>
